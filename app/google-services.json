@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214740227363",
+    "project_id": "online-tobacco",
+    "storage_bucket": "online-tobacco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214740227363:android:cb7c21a37006b732a8a896",
+        "android_client_info": {
+          "package_name": "com.example.mysignupapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALx4aHLV_FQtK1-cT3NvGoclj5ykljdzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
